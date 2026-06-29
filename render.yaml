@@ -17,4 +17,4 @@ services:
 
 databases:
   - name: arsenal-postgres-db
-    plan: freey
+    plan: free
