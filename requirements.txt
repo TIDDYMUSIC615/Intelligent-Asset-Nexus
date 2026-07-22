@@ -1,6 +1,2 @@
-fastapi
-uvicorn
-psycopg2-binary
-python-dotenv
-pytz
-alpaca-trade-api
+fastapi>=0.111.0,<1.0.0
+uvicorn[standard]>=0.30.0,<1.0.0
